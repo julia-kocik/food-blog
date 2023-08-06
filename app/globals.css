@@ -16,3 +16,9 @@
   }
 }
 
+@layer utilities {
+  .brightness-50 {
+    filter: brightness(0.4);
+  }
+}
+
